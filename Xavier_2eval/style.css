@@ -1,0 +1,88 @@
+body{
+    background-color: orange;
+}
+header{
+    font-family: 'Akaya Kanadaka', cursive;
+    text-align: center;
+    color: white;
+   font-size: 2cm;
+}
+table.primera{
+   position: relative;
+   width: 200cm;
+   height: 2cm;
+   color: yellow;
+background-color: yellow;
+border:red 
+2px solid
+
+
+
+}
+table.dentro{
+    
+   position: relative;
+   right: -21cm;
+   top: -1.5cm;
+color: white;
+background-color: orange;
+border:red  
+2px solid 
+
+}
+
+p.rojo{
+    font-size:0.5cm;
+    background-color: rgb(148, 89, 41);
+    text-align: center;
+    position: relative;
+    right: -18cm;
+    width: 20cm;
+    height: 10cm;
+    color: red;
+    border: red 1px solid;
+    z-index: 2;
+}
+p.amarillo {
+    font-size: 0.5cm;
+    position: absolute;
+    top: 8%;
+    left: 10%;
+    width: 80%;
+    height: 10%;
+    border: hsl(40, 40%, 35%) 2px solid;
+    background-color: hsl(40, 100%, 75%);
+    text-align: center;
+    width: 20cm;
+    height: 10cm;
+color: rgb(136, 177, 24);
+text-align: left;
+background-color: yellow;
+border: rgb(155, 113, 24)  1px solid;
+position: relative;
+top: -1cm;
+right: -5cm;
+}
+p.azul{
+    font-size: 0.5cm;
+    width: 20cm;
+    height: 10cm;
+    text-align: right;
+
+background-color: teal;
+color: brown;
+border: blue 1px solid;
+position: relative;
+float: right;
+top: -12cm;
+right: 5cm;
+}
+div.centro{
+    background-color: rgb(243, 212, 144);
+    
+ 
+}
+
+p:hover {
+    z-index: 3;
+  }

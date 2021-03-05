@@ -1,0 +1,33 @@
+body{
+    background-color: orange;
+}
+
+header{
+    font-family: 'Akaya Kanadaka', cursive;
+    text-align: center;
+    color: white;
+   font-size: 2cm;
+}
+table.primera{
+   position: relative;
+   width: 200cm;
+   height: 2cm;
+   color: yellow;
+background-color: yellow;
+border:red 
+2px solid
+
+
+
+}
+table.dentro{
+    
+   position: relative;
+   right: -21cm;
+   top: -1.5cm;
+color: white;
+background-color: orange;
+border:red  
+2px solid 
+
+}
